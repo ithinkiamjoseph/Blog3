@@ -1,21 +1,21 @@
 # Website details
-name: ""
-description: ""
+name: "Joseph Wood"
+description: "I write about stuff."
 email: ""
-author: ""
-lang: ""
+author: "Joseph"
+lang: "en"
 locale: ""
 
 # Jekyll
 paginate: 10
-highlighter: ""
+highlighter: "rouge"
 markdown: kramdown
 gems: [jekyll-paginate]
-timezone: Europe/Istanbul
+timezone: Eastern
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: http://domain.com
+baseurl: /Blog3
 
 # Includes
 addthisId: ""
