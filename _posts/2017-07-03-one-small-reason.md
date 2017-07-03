@@ -13,6 +13,6 @@ Right now I pay $9.99 a month for 1TB on Dropbox. It’s been great. No problems
 
 But I have one small dilemma. I can’t share files easily with other people. Right now, in Dropbox, I have tons of photos I use for work. If someone wants a photo or a folder of my photos I just send them the share link and they download the files they want.
 
-You can’t easily do that with iCloud. Some say you can copy the link in the safari browser and email that to people, but it doesn’t quite work right. And sure, you could mail drop a file to someone, but that’s not the best way for me to do it. 
+You can’t easily do that with iCloud. Some say you can copy the link in the safari browser and email that to people, but it doesn’t quite work right. And sure, you could mail drop a file to someone, but that’s not the best way for me to do it.
 
 I’m sure this is something that Apple could easily implement and they are probably working on it as we speak. But right now, without any way to easily share a file with someone, I can’t get rid of Dropbox. 
